@@ -2,5 +2,7 @@
 
 def main():
 	print("Hello, World!")
+	print()
 
-main()
+if __name__ == '__main__':
+	main()
